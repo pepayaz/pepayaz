@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Fayyaz+Akmal+Lauda+-+Software+Engineer" alt="Banner">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/24988.jpg" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Fayyaz 👋</h1>
