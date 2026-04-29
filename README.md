@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[banner-fayyaz.png](https://4kwallpapers.com/images/walls/thumbs_3t/24988.jpg)" alt="Fayyaz Akmal Lauda - Informatics ITB Banner">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/24988.jpg" alt="Fayyaz Akmal Lauda - Informatics ITB Banner">
 </p>
 
 <h1 align="center">
@@ -25,7 +25,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pepayaz&theme=radical" alt="pepayaz trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pepayaz&theme=tokyonight" alt="pepayaz trophies" />
 </p>
 
 ### 📈 Activity Graph
