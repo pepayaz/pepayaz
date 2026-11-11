@@ -4,7 +4,7 @@
 
 # Hi, I'm Fayyaz
 
-Informatics Engineering student at Institut Teknologi Bandung (class of 2024), focused on full stack web development. Currently looking for a full stack developer internship.
+Informatics Engineering student at Institut Teknologi Bandung (class of 2024), building full stack web applications with TypeScript, Next.js, and Go.
 
 ## What I work with
 - **Frontend:** TypeScript, Next.js, React, Tailwind CSS
